@@ -2,9 +2,17 @@
 <h3 align="center">Software Engineer | Writer | Artist</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=japheth-dew&label=Profile%20views&color=0e75b6&style=flat" alt="japheth-dew" /> </p>
+<p align="center" style="display: flex;"> 
+  <img src="https://komarev.com/ghpvc/?username=japheth-dew&label=Profile%20views&color=0e75b6&style=flat" alt="japheth-dew" /> 
+ <a href="https://twitter.com/fairredcap" target="blank"><img src="https://img.shields.io/twitter/follow/fairredcap?logo=twitter&style=for-the-badge" alt="fairredcap" /></a> 
 
-<p align="left"> <a href="https://twitter.com/fairredcap" target="blank"><img src="https://img.shields.io/twitter/follow/fairredcap?logo=twitter&style=for-the-badge" alt="fairredcap" /></a> </p>
+  <a href="mailto:sholajapheth@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a href="https://wa.me/2347052053780?text=Hello Zubair" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=japheth-dew&show_icons=true&locale=en&layout=compact" alt="japheth-dew" /></p>
 
@@ -31,13 +39,15 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/weevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="weevil" height="30" width="40" /></a>
 <a href="https://twitter.com/fairredcap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fairredcap" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shola-japheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shola-japheth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14709832/shola-japheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14709832/shola-japheth" height="30" width="40" /></a>
 <a href="https://fb.com/shola japheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shola japheth" height="30" width="40" /></a>
 <a href="https://instagram.com/fairredcap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fairredcap" height="30" width="40" /></a>
+
+
 </p>
 
 
